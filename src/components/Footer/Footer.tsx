@@ -109,7 +109,7 @@ const Footer = () => {
         {/* Bottom Section: Copyright */}
         <div className="text-center border-t border-gray-300 pt-4">
           <p className="text-base text-gray-500">
-            © 2024 QuickRide Taxi. All rights reserved.
+            © 2025 QuickRide Taxi. All rights reserved.
           </p>
         </div>
       </div>
